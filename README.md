@@ -5,6 +5,7 @@ This **interactive Power BI dashboard** provides deep insights into **BMW's glob
 
 ## Preview  
 ![BMW Sales Dashboard](https://github.com/Jaideep-2712/BMW-Sales-Dashboard/blob/main/BMW%20Sales%20Dashboard%201.png)
+![BMW Sales Dashboard](https://github.com/Jaideep-2712/BMW-Sales-Dashboard/blob/main/BMW%20Sales%20Dashboard%202.png)
 
 
 ## About this Dataset  
