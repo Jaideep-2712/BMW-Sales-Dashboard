@@ -18,7 +18,7 @@ BMW is a leader in the automotive industry, consistently innovating and expandin
 To explore the dashboard:  
 1️⃣ Download **Power BI Desktop**  
 2️⃣ Clone this repository  
-3️⃣ Open `BMW_Sales_Dashboard.pbix` with Power BI  
+3️⃣ Open `BMW Sales Dashboard` with Power BI  
 4️⃣ Interact with the dashboard  
 
 ## Contact  
